@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gitfire/static/css/main.3c965749.chunk.css",
-    "main.js": "/gitfire/static/js/main.cca5dd46.chunk.js",
-    "main.js.map": "/gitfire/static/js/main.cca5dd46.chunk.js.map",
+    "main.js": "/gitfire/static/js/main.00650739.chunk.js",
+    "main.js.map": "/gitfire/static/js/main.00650739.chunk.js.map",
     "runtime-main.js": "/gitfire/static/js/runtime-main.9d9bf217.js",
     "runtime-main.js.map": "/gitfire/static/js/runtime-main.9d9bf217.js.map",
     "static/css/2.3e014962.chunk.css": "/gitfire/static/css/2.3e014962.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.3e014962.chunk.css",
     "static/js/2.0cba7c83.chunk.js",
     "static/css/main.3c965749.chunk.css",
-    "static/js/main.cca5dd46.chunk.js"
+    "static/js/main.00650739.chunk.js"
   ]
 }
